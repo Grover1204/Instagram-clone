@@ -15,7 +15,7 @@ and User Post data stored in the database.
 User Profile and post images stored in FIrebase Storage
 ![Screenshot (319)](https://user-images.githubusercontent.com/97908707/151680141-65eab10f-926c-48e6-b124-31908071256b.png)
 
-User Profile and post data stored in Unique Id
+User Profile and post data stored in  Unique generated Id connected to user profile
 ![Screenshot (321)](https://user-images.githubusercontent.com/97908707/151680171-b9bbd629-f448-4b22-a283-41d6cfb0336b.png)
 ![Screenshot (320)](https://user-images.githubusercontent.com/97908707/151680176-3668e162-eac9-4bec-b613-9f14dd307f6e.png)
 
@@ -29,4 +29,12 @@ Log In Screen
 SignUp Screen
 ![Screenshot (323)](https://user-images.githubusercontent.com/97908707/151680195-0a9cbbf0-b3c5-4633-ba44-12e042887a2a.png)
 
-Post Data will be automatic updated in User Feed area. Little Animation is also add.
+Post Data will be automatic updated in User Feed area. Little Animation is also add. This data is add in realtime
+
+Instagram feed
+![Screenshot (326)](https://user-images.githubusercontent.com/97908707/151691480-cd0b6bee-36e8-4abb-9601-0f3893cdde71.png)
+
+
+posting images in instagram and the images are stored in Firebase storage
+
+![Screenshot (329)](https://user-images.githubusercontent.com/97908707/151691519-f14dac69-0cee-4527-9ab5-95544282c30c.png)
